@@ -12,8 +12,8 @@ Sample app for Android live wallpaper testing using GIF media pre-authored in ex
 
 ## Additional online resources:
 
-- [android-live-wallpaper · GitHub Topics · GitHub](https://github.com/topics/android-live-wallpaper)](https://stackoverflow.com/questions/72152000/how-to-perform-cron-jobs-every-5-minutes-inside-docker)
-- [livewallpaper · GitHub Topics · GitHub](https://github.com/topics/livewallpaper)](https://docs.docker.com/config/containers/start-containers-automatically/)
+- [android-live-wallpaper · GitHub Topics · GitHub](https://github.com/topics/android-live-wallpaper)
+- [livewallpaper · GitHub Topics · GitHub](https://github.com/topics/livewallpaper)
 - [live-wallpaper · GitHub Topics · GitHub](https://github.com/topics/live-wallpaper)
 
 
